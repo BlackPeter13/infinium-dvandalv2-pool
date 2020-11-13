@@ -1,0 +1,4 @@
+2020-11-13 12:22:30 (Thread 1) Malformed message from ::ffff:127.0.0.1 generated an exception. Message: {"method": "login", "params": {"login": "inf8TBfKP8oNoRGWYAFNF4ExX4EDbfsBzVxSfvGZz6RMEfVj4GETHJvUnWLxpXijvAHR6UAg81GAofJ8BtvCVduE91AXsYY9xr.500", "pass": "jacob_testing", "agent": "xmr/1.0"}, "id": 1}
+2020-11-13 12:22:30 (Thread 1) Exception: Cannot read property 'height' of undefined
+2020-11-13 13:35:44 (Thread 1) Malformed message from ::ffff:127.0.0.1 generated an exception. Message: {"method": "login", "params": {"login": "inf8TBfKP8oNoRGWYAFNF4ExX4EDbfsBzVxSfvGZz6RMEfVj4GETHJvUnWLxpXijvAHR6UAg81GAofJ8BtvCVduE91AXsYY9xr.500", "pass": "jacob_testing", "agent": "xmr/1.0"}, "id": 1}
+2020-11-13 13:35:44 (Thread 1) Exception: Failed to parse block

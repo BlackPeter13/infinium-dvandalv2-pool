@@ -46,8 +46,11 @@
  			require('./lib/blockUnlocker.js');
  			break;
  		case 'paymentProcessor':
- 			require('./lib/paymentProcessor.js');
- 			break;
+			if ("INF" == config.symbol) {
+                require('./lib/infinium_payment_processor.js');
+            } else {
+                require('./lib/paymentProcessor.js');
+            }
  		case 'api':
  			require('./lib/api.js');
  			break;

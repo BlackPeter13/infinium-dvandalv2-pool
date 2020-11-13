@@ -1,0 +1,105 @@
+2020-11-13 10:29:24
+Error: Cannot find module 'haven-nodejs-wrapper'
+    at Function.Module._resolveFilename (module.js:548:15)
+    at Function.Module._load (module.js:475:25)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/mnt/d/all/inf/infinium-dvandalv2-pool/lib/utils.js:17:17)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/mnt/d/all/inf/infinium-dvandalv2-pool/lib/notifications.js:16:13)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/mnt/d/all/inf/infinium-dvandalv2-pool/lib/api.js:19:21)
+    at Module._compile (module.js:653:30)
+
+2020-11-13 11:42:06
+TypeError: Cannot read property 'toString' of undefined
+    at Object.<anonymous> (/mnt/d/all/inf/infinium-dvandalv2-pool/lib/utils.js:28:2)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/mnt/d/all/inf/infinium-dvandalv2-pool/lib/notifications.js:16:13)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/mnt/d/all/inf/infinium-dvandalv2-pool/lib/api.js:19:21)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+
+2020-11-13 11:43:29
+TypeError: Cannot read property 'toString' of undefined
+    at Object.<anonymous> (/mnt/d/all/inf/infinium-dvandalv2-pool/lib/utils.js:27:101)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/mnt/d/all/inf/infinium-dvandalv2-pool/lib/notifications.js:16:13)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/mnt/d/all/inf/infinium-dvandalv2-pool/lib/api.js:19:21)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+
+2020-11-13 12:23:53
+ReplyError: EXECABORT Transaction discarded because of previous errors.
+    at parseError (/mnt/d/all/inf/infinium-dvandalv2-pool/node_modules/redis-parser/lib/parser.js:179:12)
+    at parseType (/mnt/d/all/inf/infinium-dvandalv2-pool/node_modules/redis-parser/lib/parser.js:302:14)
+
+2020-11-13 12:24:59
+ReplyError: EXECABORT Transaction discarded because of previous errors.
+    at parseError (/mnt/d/all/inf/infinium-dvandalv2-pool/node_modules/redis-parser/lib/parser.js:179:12)
+    at parseType (/mnt/d/all/inf/infinium-dvandalv2-pool/node_modules/redis-parser/lib/parser.js:302:14)
+
+2020-11-13 12:26:04
+ReplyError: EXECABORT Transaction discarded because of previous errors.
+    at parseError (/mnt/d/all/inf/infinium-dvandalv2-pool/node_modules/redis-parser/lib/parser.js:179:12)
+    at parseType (/mnt/d/all/inf/infinium-dvandalv2-pool/node_modules/redis-parser/lib/parser.js:302:14)
+
+2020-11-13 12:29:08
+ReplyError: EXECABORT Transaction discarded because of previous errors.
+    at parseError (/mnt/d/all/inf/infinium-dvandalv2-pool/node_modules/redis-parser/lib/parser.js:179:12)
+    at parseType (/mnt/d/all/inf/infinium-dvandalv2-pool/node_modules/redis-parser/lib/parser.js:302:14)
+
+2020-11-13 12:30:13
+ReplyError: EXECABORT Transaction discarded because of previous errors.
+    at parseError (/mnt/d/all/inf/infinium-dvandalv2-pool/node_modules/redis-parser/lib/parser.js:179:12)
+    at parseType (/mnt/d/all/inf/infinium-dvandalv2-pool/node_modules/redis-parser/lib/parser.js:302:14)
+
+2020-11-13 12:31:48
+ReplyError: EXECABORT Transaction discarded because of previous errors.
+    at parseError (/mnt/d/all/inf/infinium-dvandalv2-pool/node_modules/redis-parser/lib/parser.js:179:12)
+    at parseType (/mnt/d/all/inf/infinium-dvandalv2-pool/node_modules/redis-parser/lib/parser.js:302:14)
+

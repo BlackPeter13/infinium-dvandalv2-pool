@@ -1,0 +1,270 @@
+2020-11-13 12:21:30 API started & listening on 127.0.0.1 port 8217
+2020-11-13 12:21:35 Stat collection finished: 44 ms redis, 5309 ms daemon
+2020-11-13 12:21:35 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 12:21:35 Stat collection broadcastLiveStats: 5310 ms
+2020-11-13 12:22:29 API started & listening on 127.0.0.1 port 8217
+2020-11-13 12:22:34 Stat collection finished: 58 ms redis, 5238 ms daemon
+2020-11-13 12:22:34 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 12:22:34 Stat collection broadcastLiveStats: 5239 ms
+2020-11-13 12:22:53 API started & listening on 127.0.0.1 port 8217
+2020-11-13 12:22:59 Stat collection finished: 40 ms redis, 6169 ms daemon
+2020-11-13 12:22:59 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 12:22:59 Stat collection broadcastLiveStats: 6171 ms
+2020-11-13 12:23:59 API started & listening on 127.0.0.1 port 8217
+2020-11-13 12:24:04 Stat collection finished: 31 ms redis, 5582 ms daemon
+2020-11-13 12:24:04 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 12:24:04 Stat collection broadcastLiveStats: 5584 ms
+2020-11-13 12:25:04 API started & listening on 127.0.0.1 port 8217
+2020-11-13 12:25:09 Stat collection finished: 37 ms redis, 5521 ms daemon
+2020-11-13 12:25:09 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 12:25:09 Stat collection broadcastLiveStats: 5523 ms
+2020-11-13 12:26:09 API started & listening on 127.0.0.1 port 8217
+2020-11-13 12:26:14 Stat collection finished: 35 ms redis, 5555 ms daemon
+2020-11-13 12:26:14 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 12:26:14 Stat collection broadcastLiveStats: 5557 ms
+2020-11-13 12:27:24 API started & listening on 127.0.0.1 port 8217
+2020-11-13 12:27:29 Stat collection finished: 36 ms redis, 5281 ms daemon
+2020-11-13 12:27:29 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 12:27:29 Stat collection broadcastLiveStats: 5283 ms
+2020-11-13 12:28:08 API started & listening on 127.0.0.1 port 8217
+2020-11-13 12:28:13 Stat collection finished: 49 ms redis, 5549 ms daemon
+2020-11-13 12:28:13 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 12:28:13 Stat collection broadcastLiveStats: 5550 ms
+2020-11-13 12:29:13 API started & listening on 127.0.0.1 port 8217
+2020-11-13 12:29:18 Stat collection finished: 32 ms redis, 5579 ms daemon
+2020-11-13 12:29:18 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 12:29:18 Stat collection broadcastLiveStats: 5581 ms
+2020-11-13 12:30:18 API started & listening on 127.0.0.1 port 8217
+2020-11-13 12:30:23 Stat collection finished: 31 ms redis, 5618 ms daemon
+2020-11-13 12:30:23 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 12:30:23 Stat collection broadcastLiveStats: 5619 ms
+2020-11-13 12:30:48 API started & listening on 127.0.0.1 port 8217
+2020-11-13 12:30:54 Stat collection finished: 33 ms redis, 5658 ms daemon
+2020-11-13 12:30:54 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 12:30:54 Stat collection broadcastLiveStats: 5660 ms
+2020-11-13 13:33:23 API started & listening on 127.0.0.1 port 8217
+2020-11-13 13:33:23 API started & listening on 127.0.0.1 port 8217
+2020-11-13 13:33:29 Stat collection finished: 51 ms redis, 5893 ms daemon
+2020-11-13 13:33:29 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 13:33:29 Stat collection broadcastLiveStats: 5895 ms
+2020-11-13 13:33:29 Stat collection finished: 55 ms redis, 5897 ms daemon
+2020-11-13 13:33:29 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 13:33:29 Stat collection broadcastLiveStats: 5900 ms
+2020-11-13 13:34:32 Stat collection finished: 2 ms redis, 2995 ms daemon
+2020-11-13 13:34:32 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 13:34:32 Stat collection broadcastLiveStats: 2998 ms
+2020-11-13 13:34:32 Stat collection finished: 2 ms redis, 3003 ms daemon
+2020-11-13 13:34:32 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 13:34:32 Stat collection broadcastLiveStats: 3006 ms
+2020-11-13 13:35:20 API started & listening on 0.0.0.0 port 8217
+2020-11-13 13:35:20 API started & listening on 0.0.0.0 port 8217
+2020-11-13 13:35:25 Stat collection finished: 43 ms redis, 5484 ms daemon
+2020-11-13 13:35:25 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 13:35:25 Stat collection broadcastLiveStats: 5485 ms
+2020-11-13 13:35:25 Stat collection finished: 61 ms redis, 5331 ms daemon
+2020-11-13 13:35:25 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 13:35:25 Stat collection broadcastLiveStats: 5333 ms
+2020-11-13 13:44:32 API started & listening on 0.0.0.0 port 8217
+2020-11-13 13:44:32 API started & listening on 0.0.0.0 port 8217
+2020-11-13 13:50:30 API started & listening on 0.0.0.0 port 8217
+2020-11-13 13:50:30 API started & listening on 0.0.0.0 port 8217
+2020-11-13 13:50:36 Stat collection finished: 38 ms redis, 5971 ms daemon
+2020-11-13 13:50:36 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 13:50:36 Stat collection broadcastLiveStats: 5973 ms
+2020-11-13 13:50:36 Stat collection finished: 39 ms redis, 5951 ms daemon
+2020-11-13 13:50:36 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 13:50:36 Stat collection broadcastLiveStats: 5953 ms
+2020-11-13 13:51:27 API started & listening on 0.0.0.0 port 8217
+2020-11-13 13:51:27 API started & listening on 0.0.0.0 port 8217
+2020-11-13 13:51:33 Stat collection finished: 34 ms redis, 5906 ms daemon
+2020-11-13 13:51:33 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 13:51:33 Stat collection broadcastLiveStats: 5907 ms
+2020-11-13 13:51:33 Stat collection finished: 36 ms redis, 5901 ms daemon
+2020-11-13 13:51:33 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 13:51:33 Stat collection broadcastLiveStats: 5902 ms
+2020-11-13 13:51:51 API started & listening on 0.0.0.0 port 8217
+2020-11-13 13:51:51 API started & listening on 0.0.0.0 port 8217
+2020-11-13 13:52:38 API started & listening on 0.0.0.0 port 8217
+2020-11-13 13:52:38 API started & listening on 0.0.0.0 port 8217
+2020-11-13 13:52:43 Stat collection finished: 37 ms redis, 5407 ms daemon
+2020-11-13 13:52:43 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 13:52:43 Stat collection broadcastLiveStats: 5408 ms
+2020-11-13 13:52:43 Stat collection finished: 40 ms redis, 5412 ms daemon
+2020-11-13 13:52:43 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 13:52:43 Stat collection broadcastLiveStats: 5412 ms
+2020-11-13 13:52:50 API started & listening on 0.0.0.0 port 8217
+2020-11-13 13:52:50 API started & listening on 0.0.0.0 port 8217
+2020-11-13 13:52:56 Stat collection finished: 33 ms redis, 5595 ms daemon
+2020-11-13 13:52:56 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 13:52:56 Stat collection broadcastLiveStats: 5597 ms
+2020-11-13 13:52:56 Stat collection finished: 35 ms redis, 5586 ms daemon
+2020-11-13 13:52:56 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 13:52:56 Stat collection broadcastLiveStats: 5587 ms
+2020-11-13 13:55:26 API started & listening on 0.0.0.0 port 8217
+2020-11-13 13:55:26 API started & listening on 0.0.0.0 port 8217
+2020-11-13 13:55:32 Stat collection finished: 37 ms redis, 6028 ms daemon
+2020-11-13 13:55:32 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 13:55:32 Stat collection broadcastLiveStats: 6030 ms
+2020-11-13 13:55:32 Stat collection finished: 40 ms redis, 6018 ms daemon
+2020-11-13 13:55:32 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 13:55:32 Stat collection broadcastLiveStats: 6021 ms
+2020-11-13 13:55:44 API started & listening on 0.0.0.0 port 8217
+2020-11-13 13:55:44 API started & listening on 0.0.0.0 port 8217
+2020-11-13 13:55:49 Stat collection finished: 41 ms redis, 5408 ms daemon
+2020-11-13 13:55:49 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 13:55:49 Stat collection broadcastLiveStats: 5410 ms
+2020-11-13 13:55:49 Stat collection finished: 45 ms redis, 5397 ms daemon
+2020-11-13 13:55:49 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 13:55:49 Stat collection broadcastLiveStats: 5400 ms
+2020-11-13 13:56:30 API started & listening on 0.0.0.0 port 8217
+2020-11-13 13:56:30 API started & listening on 0.0.0.0 port 8217
+2020-11-13 13:56:36 Stat collection finished: 39 ms redis, 6022 ms daemon
+2020-11-13 13:56:36 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 13:56:36 Stat collection broadcastLiveStats: 6025 ms
+2020-11-13 13:56:36 Stat collection finished: 43 ms redis, 6035 ms daemon
+2020-11-13 13:56:36 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 13:56:36 Stat collection broadcastLiveStats: 6037 ms
+2020-11-13 13:57:39 Stat collection finished: 2 ms redis, 2994 ms daemon
+2020-11-13 13:57:39 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 13:57:39 Stat collection broadcastLiveStats: 2996 ms
+2020-11-13 13:57:39 Stat collection finished: 2 ms redis, 2994 ms daemon
+2020-11-13 13:57:39 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 13:57:39 Stat collection broadcastLiveStats: 2996 ms
+2020-11-13 13:58:42 Stat collection finished: 2 ms redis, 3005 ms daemon
+2020-11-13 13:58:42 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 13:58:42 Stat collection broadcastLiveStats: 3006 ms
+2020-11-13 13:58:42 Stat collection finished: 2 ms redis, 3000 ms daemon
+2020-11-13 13:58:42 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 13:58:42 Stat collection broadcastLiveStats: 3002 ms
+2020-11-13 13:59:45 Stat collection finished: 1 ms redis, 2984 ms daemon
+2020-11-13 13:59:45 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 13:59:45 Stat collection broadcastLiveStats: 2986 ms
+2020-11-13 13:59:45 Stat collection finished: 2 ms redis, 2988 ms daemon
+2020-11-13 13:59:45 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 13:59:45 Stat collection broadcastLiveStats: 2989 ms
+2020-11-13 14:00:48 Stat collection finished: 1 ms redis, 2997 ms daemon
+2020-11-13 14:00:48 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 14:00:48 Stat collection broadcastLiveStats: 2999 ms
+2020-11-13 14:00:48 Stat collection finished: 1 ms redis, 2999 ms daemon
+2020-11-13 14:00:48 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 14:00:48 Stat collection broadcastLiveStats: 3001 ms
+2020-11-13 14:01:51 Stat collection finished: 1 ms redis, 2994 ms daemon
+2020-11-13 14:01:51 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 14:01:51 Stat collection broadcastLiveStats: 2996 ms
+2020-11-13 14:01:51 Stat collection finished: 1 ms redis, 2994 ms daemon
+2020-11-13 14:01:51 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 14:01:51 Stat collection broadcastLiveStats: 2995 ms
+2020-11-13 14:02:54 Stat collection finished: 2 ms redis, 2990 ms daemon
+2020-11-13 14:02:54 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 14:02:54 Stat collection broadcastLiveStats: 2992 ms
+2020-11-13 14:02:54 Stat collection finished: 1 ms redis, 2990 ms daemon
+2020-11-13 14:02:54 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 14:02:54 Stat collection broadcastLiveStats: 2992 ms
+2020-11-13 14:03:57 Stat collection finished: 1 ms redis, 2994 ms daemon
+2020-11-13 14:03:57 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 14:03:57 Stat collection broadcastLiveStats: 2995 ms
+2020-11-13 14:03:57 Stat collection finished: 1 ms redis, 2994 ms daemon
+2020-11-13 14:03:57 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 14:03:57 Stat collection broadcastLiveStats: 2996 ms
+2020-11-13 14:05:00 Stat collection finished: 1 ms redis, 2994 ms daemon
+2020-11-13 14:05:00 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 14:05:00 Stat collection broadcastLiveStats: 2996 ms
+2020-11-13 14:05:00 Stat collection finished: 1 ms redis, 2994 ms daemon
+2020-11-13 14:05:00 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 14:05:00 Stat collection broadcastLiveStats: 2998 ms
+2020-11-13 14:06:03 Stat collection finished: 1 ms redis, 2995 ms daemon
+2020-11-13 14:06:03 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 14:06:03 Stat collection broadcastLiveStats: 2997 ms
+2020-11-13 14:06:03 Stat collection finished: 1 ms redis, 2995 ms daemon
+2020-11-13 14:06:03 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 14:06:03 Stat collection broadcastLiveStats: 2997 ms
+2020-11-13 14:07:06 Stat collection finished: 1 ms redis, 2992 ms daemon
+2020-11-13 14:07:06 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 14:07:06 Stat collection broadcastLiveStats: 2994 ms
+2020-11-13 14:07:06 Stat collection finished: 1 ms redis, 2992 ms daemon
+2020-11-13 14:07:06 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 14:07:06 Stat collection broadcastLiveStats: 2994 ms
+2020-11-13 14:08:09 Stat collection finished: 1 ms redis, 2994 ms daemon
+2020-11-13 14:08:09 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 14:08:09 Stat collection broadcastLiveStats: 2996 ms
+2020-11-13 14:08:09 Stat collection finished: 2 ms redis, 2994 ms daemon
+2020-11-13 14:08:09 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 14:08:09 Stat collection broadcastLiveStats: 2996 ms
+2020-11-13 14:09:12 Stat collection finished: 1 ms redis, 2999 ms daemon
+2020-11-13 14:09:12 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 14:09:12 Stat collection broadcastLiveStats: 3000 ms
+2020-11-13 14:09:12 Stat collection finished: 2 ms redis, 2997 ms daemon
+2020-11-13 14:09:12 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 14:09:12 Stat collection broadcastLiveStats: 2998 ms
+2020-11-13 14:10:15 Stat collection finished: 1 ms redis, 2992 ms daemon
+2020-11-13 14:10:15 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 14:10:15 Stat collection broadcastLiveStats: 2993 ms
+2020-11-13 14:10:15 Stat collection finished: 1 ms redis, 2991 ms daemon
+2020-11-13 14:10:15 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 14:10:15 Stat collection broadcastLiveStats: 2992 ms
+2020-11-13 14:11:18 Stat collection finished: 1 ms redis, 3009 ms daemon
+2020-11-13 14:11:18 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 14:11:18 Stat collection broadcastLiveStats: 3010 ms
+2020-11-13 14:11:18 Stat collection finished: 2 ms redis, 3009 ms daemon
+2020-11-13 14:11:18 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 14:11:18 Stat collection broadcastLiveStats: 3010 ms
+2020-11-13 14:12:21 Stat collection finished: 1 ms redis, 2989 ms daemon
+2020-11-13 14:12:21 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 14:12:21 Stat collection broadcastLiveStats: 2991 ms
+2020-11-13 14:12:21 Stat collection finished: 1 ms redis, 2986 ms daemon
+2020-11-13 14:12:21 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 14:12:21 Stat collection broadcastLiveStats: 2988 ms
+2020-11-13 14:13:24 Stat collection finished: 1 ms redis, 2994 ms daemon
+2020-11-13 14:13:24 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 14:13:24 Stat collection broadcastLiveStats: 2996 ms
+2020-11-13 14:13:24 Stat collection finished: 1 ms redis, 2992 ms daemon
+2020-11-13 14:13:24 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 14:13:24 Stat collection broadcastLiveStats: 2994 ms
+2020-11-13 14:14:27 Stat collection finished: 3 ms redis, 2990 ms daemon
+2020-11-13 14:14:27 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 14:14:27 Stat collection broadcastLiveStats: 2992 ms
+2020-11-13 14:14:27 Stat collection finished: 5 ms redis, 2990 ms daemon
+2020-11-13 14:14:27 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 14:14:27 Stat collection broadcastLiveStats: 2991 ms
+2020-11-13 14:15:30 Stat collection finished: 1 ms redis, 3001 ms daemon
+2020-11-13 14:15:30 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 14:15:30 Stat collection broadcastLiveStats: 3002 ms
+2020-11-13 14:15:30 Stat collection finished: 1 ms redis, 2993 ms daemon
+2020-11-13 14:15:30 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 14:15:30 Stat collection broadcastLiveStats: 2994 ms
+2020-11-13 14:16:33 Stat collection finished: 1 ms redis, 2992 ms daemon
+2020-11-13 14:16:33 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 14:16:33 Stat collection broadcastLiveStats: 2995 ms
+2020-11-13 14:16:33 Stat collection finished: 1 ms redis, 3002 ms daemon
+2020-11-13 14:16:33 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 14:16:33 Stat collection broadcastLiveStats: 3004 ms
+2020-11-13 14:17:36 Stat collection finished: 1 ms redis, 3003 ms daemon
+2020-11-13 14:17:36 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 14:17:36 Stat collection broadcastLiveStats: 3006 ms
+2020-11-13 14:17:36 Stat collection finished: 1 ms redis, 3004 ms daemon
+2020-11-13 14:17:36 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 14:17:36 Stat collection broadcastLiveStats: 3006 ms
+2020-11-13 14:18:39 Stat collection finished: 1 ms redis, 2982 ms daemon
+2020-11-13 14:18:39 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 14:18:39 Stat collection broadcastLiveStats: 2983 ms
+2020-11-13 14:18:39 Stat collection finished: 1 ms redis, 2980 ms daemon
+2020-11-13 14:18:39 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 14:18:39 Stat collection broadcastLiveStats: 2981 ms
+2020-11-13 14:19:42 Stat collection finished: 1 ms redis, 2994 ms daemon
+2020-11-13 14:19:42 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 14:19:42 Stat collection broadcastLiveStats: 2996 ms
+2020-11-13 14:19:42 Stat collection finished: 1 ms redis, 2995 ms daemon
+2020-11-13 14:19:42 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 14:19:42 Stat collection broadcastLiveStats: 2996 ms
+2020-11-13 14:20:45 Stat collection finished: 1 ms redis, 2996 ms daemon
+2020-11-13 14:20:45 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 14:20:45 Stat collection broadcastLiveStats: 2998 ms
+2020-11-13 14:20:45 Stat collection finished: 1 ms redis, 3001 ms daemon
+2020-11-13 14:20:45 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 14:20:45 Stat collection broadcastLiveStats: 3002 ms
+2020-11-13 14:21:51 Stat collection finished: 1 ms redis, 5979 ms daemon
+2020-11-13 14:21:51 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 14:21:51 Stat collection broadcastLiveStats: 5980 ms
+2020-11-13 14:21:51 Stat collection finished: 1 ms redis, 5978 ms daemon
+2020-11-13 14:21:51 Broadcasting to 0 visitors and 0 address lookups
+2020-11-13 14:21:51 Stat collection broadcastLiveStats: 5980 ms

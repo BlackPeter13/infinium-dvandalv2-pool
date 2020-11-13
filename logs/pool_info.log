@@ -1,0 +1,179 @@
+2020-11-13 12:21:30 (Thread 1) Clear values for connected workers in redis database.
+2020-11-13 12:21:30 (Thread 1) Clear values for port 1444 in redis database.
+2020-11-13 12:21:30 (Thread 1) Started server listening on port 1444
+2020-11-13 12:21:30 (Thread 1) Clear values for port 2444 in redis database.
+2020-11-13 12:21:30 (Thread 1) Started server listening on port 2444
+2020-11-13 12:21:30 (Thread 1) Clear values for port 3444 in redis database.
+2020-11-13 12:21:30 (Thread 1) Started server listening on port 3444
+2020-11-13 12:21:35 (Thread 1) New Infinium block to mine at height 2073373 w/ difficulty of 68688093 (0 transactions)
+2020-11-13 12:22:29 (Thread 1) Clear values for connected workers in redis database.
+2020-11-13 12:22:29 (Thread 1) Clear values for port 1444 in redis database.
+2020-11-13 12:22:29 (Thread 1) Started server listening on port 1444
+2020-11-13 12:22:29 (Thread 1) Clear values for port 2444 in redis database.
+2020-11-13 12:22:29 (Thread 1) Started server listening on port 2444
+2020-11-13 12:22:29 (Thread 1) Clear values for port 3444 in redis database.
+2020-11-13 12:22:29 (Thread 1) Started server listening on port 3444
+2020-11-13 12:22:34 (Thread 1) New Infinium block to mine at height 2073373 w/ difficulty of 68688093 (0 transactions)
+2020-11-13 12:22:53 (Thread 1) Clear values for connected workers in redis database.
+2020-11-13 12:22:53 (Thread 1) Clear values for port 1444 in redis database.
+2020-11-13 12:22:53 (Thread 1) Started server listening on port 1444
+2020-11-13 12:22:53 (Thread 1) Clear values for port 2444 in redis database.
+2020-11-13 12:22:53 (Thread 1) Started server listening on port 2444
+2020-11-13 12:22:53 (Thread 1) Clear values for port 3444 in redis database.
+2020-11-13 12:22:53 (Thread 1) Started server listening on port 3444
+2020-11-13 12:22:58 (Thread 1) New Infinium block to mine at height 2073373 w/ difficulty of 68688093 (0 transactions)
+2020-11-13 12:23:17 (Thread 1) Miner connected inf8TBfKP8oNoRGWYAFNF4ExX4EDbfsBzVxSfvGZz6RMEfVj4GETHJvUnWLxpXijvAHR6UAg81GAofJ8BtvCVduE91AXsYY9xr@::ffff:127.0.0.1 on port 1444
+2020-11-13 12:23:17 (Thread 1) Miner difficulty fixed to 500
+2020-11-13 12:23:30 (Thread 1) Mining pool algorithm: cryptonight variant 0, Hard fork version: 4
+2020-11-13 12:23:30 (Thread 1) Accepted valid share at difficulty 500/795 from inf8TBfKP8oNoRGWYAFNF4ExX4EDbfsBzVxSfvGZz6RMEfVj4GETHJvUnWLxpXijvAHR6UAg81GAofJ8BtvCVduE91AXsYY9xr@::ffff:127.0.0.1
+2020-11-13 12:23:42 (Thread 1) Mining pool algorithm: cryptonight variant 0, Hard fork version: 4
+2020-11-13 12:23:42 (Thread 1) Accepted valid share at difficulty 500/502 from inf8TBfKP8oNoRGWYAFNF4ExX4EDbfsBzVxSfvGZz6RMEfVj4GETHJvUnWLxpXijvAHR6UAg81GAofJ8BtvCVduE91AXsYY9xr@::ffff:127.0.0.1
+2020-11-13 12:23:48 (Thread 1) Mining pool algorithm: cryptonight variant 0, Hard fork version: 4
+2020-11-13 12:23:48 (Thread 1) Accepted valid share at difficulty 500/1033 from inf8TBfKP8oNoRGWYAFNF4ExX4EDbfsBzVxSfvGZz6RMEfVj4GETHJvUnWLxpXijvAHR6UAg81GAofJ8BtvCVduE91AXsYY9xr@::ffff:127.0.0.1
+2020-11-13 12:23:55 (Thread 1) Mining pool algorithm: cryptonight variant 0, Hard fork version: 4
+2020-11-13 12:23:55 (Thread 1) Accepted valid share at difficulty 500/10286 from inf8TBfKP8oNoRGWYAFNF4ExX4EDbfsBzVxSfvGZz6RMEfVj4GETHJvUnWLxpXijvAHR6UAg81GAofJ8BtvCVduE91AXsYY9xr@::ffff:127.0.0.1
+2020-11-13 12:23:57 (Thread 1) Mining pool algorithm: cryptonight variant 0, Hard fork version: 4
+2020-11-13 12:23:57 (Thread 1) Accepted valid share at difficulty 500/5971 from inf8TBfKP8oNoRGWYAFNF4ExX4EDbfsBzVxSfvGZz6RMEfVj4GETHJvUnWLxpXijvAHR6UAg81GAofJ8BtvCVduE91AXsYY9xr@::ffff:127.0.0.1
+2020-11-13 12:24:12 (Thread 1) Mining pool algorithm: cryptonight variant 0, Hard fork version: 4
+2020-11-13 12:24:12 (Thread 1) Accepted valid share at difficulty 500/923 from inf8TBfKP8oNoRGWYAFNF4ExX4EDbfsBzVxSfvGZz6RMEfVj4GETHJvUnWLxpXijvAHR6UAg81GAofJ8BtvCVduE91AXsYY9xr@::ffff:127.0.0.1
+2020-11-13 12:24:12 (Thread 1) New Infinium block to mine at height 2073374 w/ difficulty of 68444697 (0 transactions)
+2020-11-13 12:24:16 (Thread 1) Mining pool algorithm: cryptonight variant 0, Hard fork version: 4
+2020-11-13 12:24:16 (Thread 1) Accepted valid share at difficulty 500/691 from inf8TBfKP8oNoRGWYAFNF4ExX4EDbfsBzVxSfvGZz6RMEfVj4GETHJvUnWLxpXijvAHR6UAg81GAofJ8BtvCVduE91AXsYY9xr@::ffff:127.0.0.1
+2020-11-13 12:24:23 (Thread 1) Mining pool algorithm: cryptonight variant 0, Hard fork version: 4
+2020-11-13 12:24:23 (Thread 1) Accepted valid share at difficulty 500/3087 from inf8TBfKP8oNoRGWYAFNF4ExX4EDbfsBzVxSfvGZz6RMEfVj4GETHJvUnWLxpXijvAHR6UAg81GAofJ8BtvCVduE91AXsYY9xr@::ffff:127.0.0.1
+2020-11-13 12:24:28 (Thread 1) Mining pool algorithm: cryptonight variant 0, Hard fork version: 4
+2020-11-13 12:24:28 (Thread 1) Accepted valid share at difficulty 500/976 from inf8TBfKP8oNoRGWYAFNF4ExX4EDbfsBzVxSfvGZz6RMEfVj4GETHJvUnWLxpXijvAHR6UAg81GAofJ8BtvCVduE91AXsYY9xr@::ffff:127.0.0.1
+2020-11-13 12:24:46 (Thread 1) Mining pool algorithm: cryptonight variant 0, Hard fork version: 4
+2020-11-13 12:24:46 (Thread 1) Accepted valid share at difficulty 500/533 from inf8TBfKP8oNoRGWYAFNF4ExX4EDbfsBzVxSfvGZz6RMEfVj4GETHJvUnWLxpXijvAHR6UAg81GAofJ8BtvCVduE91AXsYY9xr@::ffff:127.0.0.1
+2020-11-13 12:24:50 (Thread 1) Accepted trusted share at difficulty 500/535 from inf8TBfKP8oNoRGWYAFNF4ExX4EDbfsBzVxSfvGZz6RMEfVj4GETHJvUnWLxpXijvAHR6UAg81GAofJ8BtvCVduE91AXsYY9xr@::ffff:127.0.0.1
+2020-11-13 12:24:55 (Thread 1) Accepted trusted share at difficulty 500/121377 from inf8TBfKP8oNoRGWYAFNF4ExX4EDbfsBzVxSfvGZz6RMEfVj4GETHJvUnWLxpXijvAHR6UAg81GAofJ8BtvCVduE91AXsYY9xr@::ffff:127.0.0.1
+2020-11-13 12:24:55 (Thread 1) Accepted trusted share at difficulty 500/1334 from inf8TBfKP8oNoRGWYAFNF4ExX4EDbfsBzVxSfvGZz6RMEfVj4GETHJvUnWLxpXijvAHR6UAg81GAofJ8BtvCVduE91AXsYY9xr@::ffff:127.0.0.1
+2020-11-13 12:24:56 (Thread 1) Mining pool algorithm: cryptonight variant 0, Hard fork version: 4
+2020-11-13 12:24:56 (Thread 1) Accepted valid share at difficulty 500/6470 from inf8TBfKP8oNoRGWYAFNF4ExX4EDbfsBzVxSfvGZz6RMEfVj4GETHJvUnWLxpXijvAHR6UAg81GAofJ8BtvCVduE91AXsYY9xr@::ffff:127.0.0.1
+2020-11-13 12:25:04 (Thread 1) Mining pool algorithm: cryptonight variant 0, Hard fork version: 4
+2020-11-13 12:25:04 (Thread 1) Accepted valid share at difficulty 500/2013 from inf8TBfKP8oNoRGWYAFNF4ExX4EDbfsBzVxSfvGZz6RMEfVj4GETHJvUnWLxpXijvAHR6UAg81GAofJ8BtvCVduE91AXsYY9xr@::ffff:127.0.0.1
+2020-11-13 12:25:09 (Thread 1) Accepted trusted share at difficulty 500/1688 from inf8TBfKP8oNoRGWYAFNF4ExX4EDbfsBzVxSfvGZz6RMEfVj4GETHJvUnWLxpXijvAHR6UAg81GAofJ8BtvCVduE91AXsYY9xr@::ffff:127.0.0.1
+2020-11-13 12:25:12 (Thread 1) Accepted trusted share at difficulty 500/701 from inf8TBfKP8oNoRGWYAFNF4ExX4EDbfsBzVxSfvGZz6RMEfVj4GETHJvUnWLxpXijvAHR6UAg81GAofJ8BtvCVduE91AXsYY9xr@::ffff:127.0.0.1
+2020-11-13 12:25:19 (Thread 1) Mining pool algorithm: cryptonight variant 0, Hard fork version: 4
+2020-11-13 12:25:19 (Thread 1) Accepted valid share at difficulty 500/845 from inf8TBfKP8oNoRGWYAFNF4ExX4EDbfsBzVxSfvGZz6RMEfVj4GETHJvUnWLxpXijvAHR6UAg81GAofJ8BtvCVduE91AXsYY9xr@::ffff:127.0.0.1
+2020-11-13 12:25:25 (Thread 1) Accepted trusted share at difficulty 500/630 from inf8TBfKP8oNoRGWYAFNF4ExX4EDbfsBzVxSfvGZz6RMEfVj4GETHJvUnWLxpXijvAHR6UAg81GAofJ8BtvCVduE91AXsYY9xr@::ffff:127.0.0.1
+2020-11-13 12:25:27 (Thread 1) Accepted trusted share at difficulty 500/686 from inf8TBfKP8oNoRGWYAFNF4ExX4EDbfsBzVxSfvGZz6RMEfVj4GETHJvUnWLxpXijvAHR6UAg81GAofJ8BtvCVduE91AXsYY9xr@::ffff:127.0.0.1
+2020-11-13 12:25:29 (Thread 1) Mining pool algorithm: cryptonight variant 0, Hard fork version: 4
+2020-11-13 12:25:29 (Thread 1) Accepted valid share at difficulty 500/611 from inf8TBfKP8oNoRGWYAFNF4ExX4EDbfsBzVxSfvGZz6RMEfVj4GETHJvUnWLxpXijvAHR6UAg81GAofJ8BtvCVduE91AXsYY9xr@::ffff:127.0.0.1
+2020-11-13 12:25:34 (Thread 1) Accepted trusted share at difficulty 500/671 from inf8TBfKP8oNoRGWYAFNF4ExX4EDbfsBzVxSfvGZz6RMEfVj4GETHJvUnWLxpXijvAHR6UAg81GAofJ8BtvCVduE91AXsYY9xr@::ffff:127.0.0.1
+2020-11-13 12:25:35 (Thread 1) Mining pool algorithm: cryptonight variant 0, Hard fork version: 4
+2020-11-13 12:25:35 (Thread 1) Accepted valid share at difficulty 500/994 from inf8TBfKP8oNoRGWYAFNF4ExX4EDbfsBzVxSfvGZz6RMEfVj4GETHJvUnWLxpXijvAHR6UAg81GAofJ8BtvCVduE91AXsYY9xr@::ffff:127.0.0.1
+2020-11-13 12:25:46 (Thread 1) Accepted trusted share at difficulty 500/2687 from inf8TBfKP8oNoRGWYAFNF4ExX4EDbfsBzVxSfvGZz6RMEfVj4GETHJvUnWLxpXijvAHR6UAg81GAofJ8BtvCVduE91AXsYY9xr@::ffff:127.0.0.1
+2020-11-13 12:25:48 (Thread 1) Accepted trusted share at difficulty 500/620 from inf8TBfKP8oNoRGWYAFNF4ExX4EDbfsBzVxSfvGZz6RMEfVj4GETHJvUnWLxpXijvAHR6UAg81GAofJ8BtvCVduE91AXsYY9xr@::ffff:127.0.0.1
+2020-11-13 12:25:56 (Thread 1) Mining pool algorithm: cryptonight variant 0, Hard fork version: 4
+2020-11-13 12:25:56 (Thread 1) Accepted valid share at difficulty 500/937 from inf8TBfKP8oNoRGWYAFNF4ExX4EDbfsBzVxSfvGZz6RMEfVj4GETHJvUnWLxpXijvAHR6UAg81GAofJ8BtvCVduE91AXsYY9xr@::ffff:127.0.0.1
+2020-11-13 12:25:58 (Thread 1) Mining pool algorithm: cryptonight variant 0, Hard fork version: 4
+2020-11-13 12:25:58 (Thread 1) Accepted valid share at difficulty 500/2440 from inf8TBfKP8oNoRGWYAFNF4ExX4EDbfsBzVxSfvGZz6RMEfVj4GETHJvUnWLxpXijvAHR6UAg81GAofJ8BtvCVduE91AXsYY9xr@::ffff:127.0.0.1
+2020-11-13 12:26:01 (Thread 1) Accepted trusted share at difficulty 500/539 from inf8TBfKP8oNoRGWYAFNF4ExX4EDbfsBzVxSfvGZz6RMEfVj4GETHJvUnWLxpXijvAHR6UAg81GAofJ8BtvCVduE91AXsYY9xr@::ffff:127.0.0.1
+2020-11-13 12:26:17 (Thread 1) Accepted trusted share at difficulty 500/1702 from inf8TBfKP8oNoRGWYAFNF4ExX4EDbfsBzVxSfvGZz6RMEfVj4GETHJvUnWLxpXijvAHR6UAg81GAofJ8BtvCVduE91AXsYY9xr@::ffff:127.0.0.1
+2020-11-13 12:27:24 (Thread 1) Clear values for connected workers in redis database.
+2020-11-13 12:27:24 (Thread 1) Clear values for port 1444 in redis database.
+2020-11-13 12:27:24 (Thread 1) Started server listening on port 1444
+2020-11-13 12:27:24 (Thread 1) Clear values for port 2444 in redis database.
+2020-11-13 12:27:24 (Thread 1) Started server listening on port 2444
+2020-11-13 12:27:24 (Thread 1) Clear values for port 3444 in redis database.
+2020-11-13 12:27:24 (Thread 1) Started server listening on port 3444
+2020-11-13 12:27:29 (Thread 1) New Infinium block to mine at height 2073374 w/ difficulty of 68444697 (0 transactions)
+2020-11-13 12:27:38 (Thread 1) New Infinium block to mine at height 2073375 w/ difficulty of 68413285 (0 transactions)
+2020-11-13 12:28:08 (Thread 1) Clear values for connected workers in redis database.
+2020-11-13 12:28:08 (Thread 1) Clear values for port 1444 in redis database.
+2020-11-13 12:28:08 (Thread 1) Started server listening on port 1444
+2020-11-13 12:28:08 (Thread 1) Clear values for port 2444 in redis database.
+2020-11-13 12:28:08 (Thread 1) Started server listening on port 2444
+2020-11-13 12:28:08 (Thread 1) Clear values for port 3444 in redis database.
+2020-11-13 12:28:08 (Thread 1) Started server listening on port 3444
+2020-11-13 12:28:13 (Thread 1) New Infinium block to mine at height 2073375 w/ difficulty of 68413285 (0 transactions)
+2020-11-13 12:29:05 (Thread 1) New Infinium block to mine at height 2073376 w/ difficulty of 68369527 (0 transactions)
+2020-11-13 12:30:48 (Thread 1) Clear values for connected workers in redis database.
+2020-11-13 12:30:48 (Thread 1) Clear values for port 1444 in redis database.
+2020-11-13 12:30:48 (Thread 1) Started server listening on port 1444
+2020-11-13 12:30:48 (Thread 1) Clear values for port 2444 in redis database.
+2020-11-13 12:30:48 (Thread 1) Started server listening on port 2444
+2020-11-13 12:30:48 (Thread 1) Clear values for port 3444 in redis database.
+2020-11-13 12:30:48 (Thread 1) Started server listening on port 3444
+2020-11-13 12:30:54 (Thread 1) New Infinium block to mine at height 2073377 w/ difficulty of 68483314 (0 transactions)
+2020-11-13 13:33:23 (Thread 1) Clear values for connected workers in redis database.
+2020-11-13 13:33:23 (Thread 1) Clear values for port 1444 in redis database.
+2020-11-13 13:33:23 (Thread 1) Started server listening on port 1444
+2020-11-13 13:33:23 (Thread 1) Clear values for port 2444 in redis database.
+2020-11-13 13:33:23 (Thread 1) Started server listening on port 2444
+2020-11-13 13:33:23 (Thread 1) Clear values for port 3444 in redis database.
+2020-11-13 13:33:23 (Thread 1) Started server listening on port 3444
+2020-11-13 13:33:28 (Thread 1) New Infinium block to mine at height 2073429 w/ difficulty of 68102080 (0 transactions)
+2020-11-13 13:34:16 (Thread 1) New Infinium block to mine at height 2073430 w/ difficulty of 68458769 (0 transactions)
+2020-11-13 13:34:51 (Thread 1) Miner connected inf8TBfKP8oNoRGWYAFNF4ExX4EDbfsBzVxSfvGZz6RMEfVj4GETHJvUnWLxpXijvAHR6UAg81GAofJ8BtvCVduE91AXsYY9xr@::ffff:127.0.0.1 on port 1444
+2020-11-13 13:34:51 (Thread 1) Miner difficulty fixed to 500
+2020-11-13 13:35:01 (Thread 1) Mining pool algorithm: cryptonight variant 0, Hard fork version: 4
+2020-11-13 13:35:01 (Thread 1) Accepted valid share at difficulty 500/521 from inf8TBfKP8oNoRGWYAFNF4ExX4EDbfsBzVxSfvGZz6RMEfVj4GETHJvUnWLxpXijvAHR6UAg81GAofJ8BtvCVduE91AXsYY9xr@::ffff:127.0.0.1
+2020-11-13 13:35:02 (Thread 1) Mining pool algorithm: cryptonight variant 0, Hard fork version: 4
+2020-11-13 13:35:02 (Thread 1) Accepted valid share at difficulty 500/523 from inf8TBfKP8oNoRGWYAFNF4ExX4EDbfsBzVxSfvGZz6RMEfVj4GETHJvUnWLxpXijvAHR6UAg81GAofJ8BtvCVduE91AXsYY9xr@::ffff:127.0.0.1
+2020-11-13 13:35:20 (Thread 1) Clear values for connected workers in redis database.
+2020-11-13 13:35:20 (Thread 1) Clear values for port 1444 in redis database.
+2020-11-13 13:35:20 (Thread 1) Started server listening on port 1444
+2020-11-13 13:35:20 (Thread 1) Clear values for port 2444 in redis database.
+2020-11-13 13:35:20 (Thread 1) Started server listening on port 2444
+2020-11-13 13:35:20 (Thread 1) Clear values for port 3444 in redis database.
+2020-11-13 13:35:20 (Thread 1) Started server listening on port 3444
+2020-11-13 13:35:25 (Thread 1) New Infinium block to mine at height 2073430 w/ difficulty of 68458769 (0 transactions)
+2020-11-13 13:35:47 (Thread 1) New Infinium block to mine at height 2073431 w/ difficulty of 68354076 (0 transactions)
+2020-11-13 13:50:30 (Thread 1) Clear values for connected workers in redis database.
+2020-11-13 13:50:30 (Thread 1) Clear values for port 1444 in redis database.
+2020-11-13 13:50:30 (Thread 1) Started server listening on port 1444
+2020-11-13 13:50:30 (Thread 1) Clear values for port 2444 in redis database.
+2020-11-13 13:50:30 (Thread 1) Started server listening on port 2444
+2020-11-13 13:50:30 (Thread 1) Clear values for port 3444 in redis database.
+2020-11-13 13:50:30 (Thread 1) Started server listening on port 3444
+2020-11-13 13:50:35 (Thread 1) New Infinium block to mine at height 2073438 w/ difficulty of 68982571 (0 transactions)
+2020-11-13 13:51:27 (Thread 1) Clear values for connected workers in redis database.
+2020-11-13 13:51:27 (Thread 1) Clear values for port 1444 in redis database.
+2020-11-13 13:51:27 (Thread 1) Started server listening on port 1444
+2020-11-13 13:51:27 (Thread 1) Clear values for port 2444 in redis database.
+2020-11-13 13:51:27 (Thread 1) Started server listening on port 2444
+2020-11-13 13:51:27 (Thread 1) Clear values for port 3444 in redis database.
+2020-11-13 13:51:27 (Thread 1) Started server listening on port 3444
+2020-11-13 13:51:32 (Thread 1) New Infinium block to mine at height 2073440 w/ difficulty of 68726328 (0 transactions)
+2020-11-13 13:55:26 (Thread 1) Clear values for connected workers in redis database.
+2020-11-13 13:55:26 (Thread 1) Clear values for port 1444 in redis database.
+2020-11-13 13:55:26 (Thread 1) Started server listening on port 1444
+2020-11-13 13:55:26 (Thread 1) Clear values for port 2444 in redis database.
+2020-11-13 13:55:26 (Thread 1) Started server listening on port 2444
+2020-11-13 13:55:26 (Thread 1) Clear values for port 3444 in redis database.
+2020-11-13 13:55:26 (Thread 1) Started server listening on port 3444
+2020-11-13 13:55:31 (Thread 1) New Infinium block to mine at height 2073442 w/ difficulty of 68695448 (0 transactions)
+2020-11-13 13:55:44 (Thread 1) Clear values for connected workers in redis database.
+2020-11-13 13:55:44 (Thread 1) Clear values for port 1444 in redis database.
+2020-11-13 13:55:44 (Thread 1) Started server listening on port 1444
+2020-11-13 13:55:44 (Thread 1) Clear values for port 2444 in redis database.
+2020-11-13 13:55:44 (Thread 1) Started server listening on port 2444
+2020-11-13 13:55:44 (Thread 1) Clear values for port 3444 in redis database.
+2020-11-13 13:55:44 (Thread 1) Started server listening on port 3444
+2020-11-13 13:55:49 (Thread 1) New Infinium block to mine at height 2073442 w/ difficulty of 68695448 (0 transactions)
+2020-11-13 13:56:30 (Thread 1) Clear values for connected workers in redis database.
+2020-11-13 13:56:30 (Thread 1) Clear values for port 1444 in redis database.
+2020-11-13 13:56:30 (Thread 1) Started server listening on port 1444
+2020-11-13 13:56:30 (Thread 1) Clear values for port 2444 in redis database.
+2020-11-13 13:56:30 (Thread 1) Started server listening on port 2444
+2020-11-13 13:56:30 (Thread 1) Clear values for port 3444 in redis database.
+2020-11-13 13:56:30 (Thread 1) Started server listening on port 3444
+2020-11-13 13:56:35 (Thread 1) New Infinium block to mine at height 2073442 w/ difficulty of 68695448 (0 transactions)
+2020-11-13 14:00:52 (Thread 1) New Infinium block to mine at height 2073443 w/ difficulty of 68562925 (0 transactions)
+2020-11-13 14:00:58 (Thread 1) New Infinium block to mine at height 2073444 w/ difficulty of 68709814 (0 transactions)
+2020-11-13 14:04:20 (Thread 1) New Infinium block to mine at height 2073445 w/ difficulty of 68540641 (0 transactions)
+2020-11-13 14:05:38 (Thread 1) New Infinium block to mine at height 2073446 w/ difficulty of 68608033 (0 transactions)
+2020-11-13 14:05:59 (Thread 1) New Infinium block to mine at height 2073447 w/ difficulty of 68461723 (0 transactions)
+2020-11-13 14:08:05 (Thread 1) New Infinium block to mine at height 2073448 w/ difficulty of 68420748 (0 transactions)
+2020-11-13 14:08:17 (Thread 1) New Infinium block to mine at height 2073449 w/ difficulty of 68402269 (0 transactions)
+2020-11-13 14:08:53 (Thread 1) New Infinium block to mine at height 2073450 w/ difficulty of 68188853 (0 transactions)
+2020-11-13 14:12:33 (Thread 1) New Infinium block to mine at height 2073451 w/ difficulty of 68047327 (0 transactions)
+2020-11-13 14:12:39 (Thread 1) New Infinium block to mine at height 2073451 w/ difficulty of 68047327 (0 transactions)
+2020-11-13 14:13:05 (Thread 1) New Infinium block to mine at height 2073452 w/ difficulty of 68037118 (0 transactions)
+2020-11-13 14:13:48 (Thread 1) New Infinium block to mine at height 2073453 w/ difficulty of 67930906 (0 transactions)
+2020-11-13 14:20:19 (Thread 1) New Infinium block to mine at height 2073454 w/ difficulty of 67751044 (0 transactions)
+2020-11-13 14:20:55 (Thread 1) New Infinium block to mine at height 2073455 w/ difficulty of 67970366 (0 transactions)
+2020-11-13 14:21:04 (Thread 1) New Infinium block to mine at height 2073456 w/ difficulty of 68001221 (0 transactions)
+2020-11-13 14:22:16 (Thread 1) New Infinium block to mine at height 2073457 w/ difficulty of 67911936 (0 transactions)

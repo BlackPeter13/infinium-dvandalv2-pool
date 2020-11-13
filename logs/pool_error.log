@@ -1,0 +1,7 @@
+2020-11-13 12:22:58 (Thread 1) INTERNAL ERROR: found reserve offset in unexpected place (found at 432, expected at 431)
+2020-11-13 12:24:12 (Thread 1) INTERNAL ERROR: found reserve offset in unexpected place (found at 430, expected at 429)
+2020-11-13 12:27:29 (Thread 1) INTERNAL ERROR: found reserve offset in unexpected place (found at 430, expected at 429)
+2020-11-13 12:27:38 (Thread 1) INTERNAL ERROR: found reserve offset in unexpected place (found at 432, expected at 431)
+2020-11-13 13:35:47 (Thread 1) BlockTemplate Error: Failed to parse block
+2020-11-13 13:51:27 (Thread 1) Bad poolAddress, don't use amethyst, please use legacy wallet address
+2020-11-13 13:55:26 (Thread 1) Bad poolAddress, don't use amethyst, please use legacy wallet address
