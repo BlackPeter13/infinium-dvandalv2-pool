@@ -103,3 +103,35 @@ ReplyError: EXECABORT Transaction discarded because of previous errors.
     at parseError (/mnt/d/all/inf/infinium-dvandalv2-pool/node_modules/redis-parser/lib/parser.js:179:12)
     at parseType (/mnt/d/all/inf/infinium-dvandalv2-pool/node_modules/redis-parser/lib/parser.js:302:14)
 
+2021-02-10 16:22:31
+/6tb/linux_apps/infinium_dev/infinium-dvandalv2-pool/node_modules/mailgun.js/dist/mailgun.js:2
+!function(e,t){"object"==typeof exports&&"object"==typeof module?module.exports=t():"function"==typeof define&&define.amd?define([],t):"object"==typeof exports?exports.mailgun=t():e.mailgun=t()}(this,(function(){return(()=>{var e={271:(e,t,r)=>{"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n=r(185);class o extends n.EventTarget{constructor(){throw super(),new TypeError("AbortSignal cannot be constructed directly")}get aborted(){const e=i.get(this);if("boolean"!=typeof e)throw new TypeError("Expected 'this' to be an 'AbortSignal' object, but got "+(null===this?"null":typeof this));return e}}n.defineEventAttribute(o.prototype,"abort");const i=new WeakMap;Object.defineProperties(o.prototype,{aborted:{enumerable:!0}}),"function"==typeof Symbol&&"symbol"==typeof Symbol.toStringTag&&Object.defineProperty(o.prototype,Symbol.toStringTag,{configurable:!0,value:"AbortSignal"});class s{constructor(){a.set
+
+SyntaxError: Unexpected reserved word
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:617:28)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/6tb/linux_apps/infinium_dev/infinium-dvandalv2-pool/lib/email.js:13:15)
+
+2021-02-10 16:24:27
+/6tb/linux_apps/infinium_dev/infinium-dvandalv2-pool/node_modules/mailgun.js/dist/mailgun.js:2
+!function(e,t){"object"==typeof exports&&"object"==typeof module?module.exports=t():"function"==typeof define&&define.amd?define([],t):"object"==typeof exports?exports.mailgun=t():e.mailgun=t()}(this,(function(){return(()=>{var e={271:(e,t,r)=>{"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n=r(185);class o extends n.EventTarget{constructor(){throw super(),new TypeError("AbortSignal cannot be constructed directly")}get aborted(){const e=i.get(this);if("boolean"!=typeof e)throw new TypeError("Expected 'this' to be an 'AbortSignal' object, but got "+(null===this?"null":typeof this));return e}}n.defineEventAttribute(o.prototype,"abort");const i=new WeakMap;Object.defineProperties(o.prototype,{aborted:{enumerable:!0}}),"function"==typeof Symbol&&"symbol"==typeof Symbol.toStringTag&&Object.defineProperty(o.prototype,Symbol.toStringTag,{configurable:!0,value:"AbortSignal"});class s{constructor(){a.set
+
+SyntaxError: Unexpected reserved word
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:617:28)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/6tb/linux_apps/infinium_dev/infinium-dvandalv2-pool/lib/email.js:13:15)
+
