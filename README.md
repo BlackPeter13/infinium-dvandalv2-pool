@@ -1,6 +1,6 @@
 cryptonote-nodejs-pool
 ======================
-
+Ubuntu Server 18.04 with desktop.
 High performance Node.js (with native C addons) mining pool for CryptoNote based coins. Comes with lightweight example front-end script which uses the pool's AJAX API. Support for Cryptonight (Original, Monero v7, Stellite v7), Cryptonight Light (Original, Aeon v7, IPBC) and Cryptonight Heavy (Sumokoin) algorithms.
 
 
