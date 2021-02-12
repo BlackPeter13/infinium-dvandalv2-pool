@@ -1,5 +1,5 @@
 {
-	"poolHost": "your.pool.host",
+	"poolHost": "radioactive.es",
 
 	"coin": "Infinium",
 	"symbol": "INF",
@@ -26,7 +26,7 @@
 			"colors": true
 		}
 	},
-	"childPools":[ {"poolAddress":"your XFG wallet",
+	"childPools":[ {"radioactive.es":"fango3tKbMHbnNqGsS9szr9GspyuyLaP5S3rffcpYo9dfgUTCF8P5a4AmGcjoFVk7kBbEtJR5zsHTG8CVodP7ULHLRGDsMuHvKe",
                     "intAddressPrefix": null,
                     "coin": "XFG",
                     "childDaemon": {
@@ -44,7 +44,7 @@
 		"enabled": true,
 		"mergedMining": true,
 		"clusterForks": 1,
-		"poolAddress": "inf8TBfKP8oNoRGWYAFNF4ExX4EDbfsBzVxSfvGZz6RMEfVj4GETHJvUnWLxpXijvAHR6UAg81GAofJ8BtvCVduE91AXsYY9xr",
+		"poolAddress": "inf8d8xiyk33M1ULQ2nwSEdx7YqvpmuRGdeQRtPH2oDH42QzDCAgJnqGgwJFNMSefe8j8Pbumqbda9qxp97JCH7i8j1WgbASkx",
 		"intAddressPrefix": "88386169",
 		"subAddressPrefix": "1288825",
 		"blockRefreshInterval": 800,
@@ -107,7 +107,7 @@
 
 	"payments": {
         "enabled": true,
-        "interval": 2400,
+        "interval": 30,
         "maxAddresses": 5,
         "mixin": 0,
         "priority": 0,
@@ -122,8 +122,8 @@
     "blockUnlocker": {
         "enabled": true,
         "interval": 30,
-        "depth": 65,
-        "poolFee": 0.1,
+        "depth": 5,
+        "poolFee": 1.5,
         "devDonation": 0.9,
         "networkFee": 0,
 	    "fixBlockHeightRPC": true
